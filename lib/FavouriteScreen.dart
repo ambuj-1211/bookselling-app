@@ -1,0 +1,3 @@
+class FavouriteScreen{
+  const FavouriteScreen();
+}
